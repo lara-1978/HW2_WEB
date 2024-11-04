@@ -1,0 +1,50 @@
+a {
+    text-decoration: none;
+}
+
+.menu_link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.h1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight:bold
+}
+
+.prg {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #181e60
+}
+
+.prg1 {
+    font-style: bold;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 30px;
+    color: #280386
+}
+
+.h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.footer{
+        height: 20px;
+        margin: auto;
+        width: 200px;
+        text-align:center;
+        padding:10px;
+        color:#3c3b3b;
+        background-color: rgb(232, 228, 222);  
+}
